@@ -12,6 +12,7 @@ export default defineConfig({
 
     nav: [
       { text: '指南', link: '/guide' },
+      { text: '微信助手 Pro', link: 'https://yzqzy.github.io/wechat-assistant-pro-docs/' },
       {
         text: '相关链接',
         items: [
